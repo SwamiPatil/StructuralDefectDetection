@@ -10,9 +10,9 @@ Step 2: Keras U-net
 </br>
 １. Multiple chips on the surface</br>
 ![Defect 1](https://github.com/SwamiPatil/StructuralDefectDetection/blob/main/Images/Defect1.png)
-２. Single Vertical crack</br>
+</br>２. Single Vertical crack</br>
 ![Defect 2](https://github.com/SwamiPatil/StructuralDefectDetection/blob/main/Images/Defect2.png)
-３. Multiple vertical cracks</br>
+</br>３. Multiple vertical cracks</br>
 ![Defect 3](https://github.com/SwamiPatil/StructuralDefectDetection/blob/main/Images/Defect3.png)
-４. Muliptle large surface patches</br>
+</br>４. Muliptle large surface patches</br>
 ![Defect 4](https://github.com/SwamiPatil/StructuralDefectDetection/blob/main/Images/Defect4.png)
