@@ -1,5 +1,4 @@
-# StructuralDefectDetection
-Finding the structural defects on steel
+# Structural Defect Detection on Steel
 ![Application Screenshot](https://github.com/SwamiPatil/StructuralDefectDetection/blob/main/Images/DefectApplication.png)
 
 Model creation: </br>
